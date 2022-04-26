@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-server",
     "status": "up",
-    "uptime": "82.00%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "82.00%",
-    "uptimeMonth": "82.00%",
-    "uptimeYear": "82.00%",
+    "uptime": "84.77%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "84.77%",
+    "uptimeMonth": "84.77%",
+    "uptimeYear": "84.77%",
     "time": 3173,
     "timeDay": 3173,
     "timeWeek": 3173,
     "timeMonth": 3173,
     "timeYear": 3173,
     "dailyMinutesDown": {
-      "2022-04-26": 53
+      "2022-04-26": 48
     }
   },
   {
@@ -43,36 +43,34 @@
     "icon": "https://favicons.githubusercontent.com/hubs.yukbid.com",
     "slug": "hubs",
     "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5625,
     "timeDay": 5625,
     "timeWeek": 5625,
     "timeMonth": 5625,
     "timeYear": 5625,
-    "dailyMinutesDown": {
-      "2022-04-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CMS",
     "url": "$CMS_SITE/version.txt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
-    "status": "up",
-    "uptime": "79.60%",
-    "uptimeDay": "79.60%",
-    "uptimeWeek": "79.60%",
-    "uptimeMonth": "79.60%",
-    "uptimeYear": "79.60%",
-    "time": 6986,
-    "timeDay": 6986,
-    "timeWeek": 6986,
-    "timeMonth": 6986,
-    "timeYear": 6986,
+    "status": "down",
+    "uptime": "80.87%",
+    "uptimeDay": "80.87%",
+    "uptimeWeek": "80.87%",
+    "uptimeMonth": "80.87%",
+    "uptimeYear": "80.87%",
+    "time": 6555,
+    "timeDay": 6555,
+    "timeWeek": 6555,
+    "timeMonth": 6555,
+    "timeYear": 6555,
     "dailyMinutesDown": {
       "2022-04-26": 59
     }

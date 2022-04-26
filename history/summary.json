@@ -22,19 +22,19 @@
     "url": "https://api.yukbid.com/version.txt",
     "icon": "https://favicons.githubusercontent.com/api.yukbid.com",
     "slug": "api-server",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1197,
-    "timeDay": 1197,
-    "timeWeek": 1197,
-    "timeMonth": 1197,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "82.55%",
+    "uptimeDay": "82.55%",
+    "uptimeWeek": "82.55%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "82.55%",
+    "time": 3189,
+    "timeDay": 3189,
+    "timeWeek": 3189,
+    "timeMonth": 3189,
+    "timeYear": 3189,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 13
     }
   },
   {

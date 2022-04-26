@@ -1,31 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: yukbid # Your GitHub username
+repo: upptime # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Home
+    url: https://yukbid.com
+  - name: API Server
+    url: https://api.yukbid.com/version.txt
+  - name: Yukbid URL Shortener
+    url: https://url.yukb.id/version
+#  - name: Yukbid Staging
+#    url: https://yukbid.lyr.id/homepage
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.yukb.id
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /statuspage
+  logoUrl: https://yukbid.com/assets/img/brand_primary.svg
+  favicon: https://yukbid.com/assets/favicon.ico
+  name: "Yukbid's Status Page"
+  themeUrl: https://appify.org/lyrid.css
+  introTitle: "Yukbid's Status Page"
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Yukbid
+      href: https://www.yukbid.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

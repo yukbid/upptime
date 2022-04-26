@@ -7,11 +7,11 @@ sites:
   - name: Home
     url: https://yukbid.com
   - name: API Server
-    url: https://api.yukbid.com/version.txt
+    url: $API_SITE/version.txt
   - name: Hubs
     url: https://hubs.yukbid.com/version.txt
   - name: CMS
-    url: https://cms.yukb.id/version.txt
+    url: $CMS_SITE/version.txt
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

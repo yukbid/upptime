@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-server",
     "status": "down",
-    "uptime": "94.51%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "94.51%",
-    "uptimeYear": "94.51%",
+    "uptime": "93.96%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "93.96%",
     "time": 4556,
     "timeDay": 4556,
     "timeWeek": 4556,
     "timeMonth": 4556,
     "timeYear": 4556,
     "dailyMinutesDown": {
-      "2022-04-26": 48
+      "2022-04-26": 53
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$CMS_SITE/version.txt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
-    "status": "down",
-    "uptime": "91.98%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "91.98%",
-    "time": 6016,
-    "timeDay": 6016,
-    "timeWeek": 6016,
-    "timeMonth": 6016,
-    "timeYear": 6016,
+    "status": "up",
+    "uptime": "91.45%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "91.45%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "91.45%",
+    "time": 6255,
+    "timeDay": 6255,
+    "timeWeek": 6255,
+    "timeMonth": 6255,
+    "timeYear": 6255,
     "dailyMinutesDown": {
-      "2022-04-26": 70
+      "2022-04-26": 75
     }
   }
 ]

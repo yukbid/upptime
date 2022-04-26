@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2159,
-    "timeDay": 2159,
-    "timeWeek": 2159,
-    "timeMonth": 2159,
-    "timeYear": 2159,
+    "time": 2153,
+    "timeDay": 2153,
+    "timeWeek": 2153,
+    "timeMonth": 2153,
+    "timeYear": 2153,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "$API_SITE/version.txt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-server",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
-    "time": 4842,
-    "timeDay": 4842,
-    "timeWeek": 4842,
-    "timeMonth": 4842,
-    "timeYear": 4842,
+    "status": "down",
+    "uptime": "94.51%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "94.51%",
+    "time": 4556,
+    "timeDay": 4556,
+    "timeWeek": 4556,
+    "timeMonth": 4556,
+    "timeYear": 4556,
     "dailyMinutesDown": {
-      "2022-04-26": 55
+      "2022-04-26": 48
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6542,
-    "timeDay": 6542,
-    "timeWeek": 6542,
-    "timeMonth": 6542,
-    "timeYear": 6542,
+    "time": 6185,
+    "timeDay": 6185,
+    "timeWeek": 6185,
+    "timeMonth": 6185,
+    "timeYear": 6185,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
     "status": "down",
-    "uptime": "92.33%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "92.33%",
-    "time": 6171,
-    "timeDay": 6171,
-    "timeWeek": 6171,
-    "timeMonth": 6171,
-    "timeYear": 6171,
+    "uptime": "91.98%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "91.98%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "91.98%",
+    "time": 6016,
+    "timeDay": 6016,
+    "timeWeek": 6016,
+    "timeMonth": 6016,
+    "timeYear": 6016,
     "dailyMinutesDown": {
-      "2022-04-26": 66
+      "2022-04-26": 70
     }
   }
 ]

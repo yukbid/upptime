@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-server",
     "status": "up",
-    "uptime": "88.18%",
-    "uptimeDay": "88.18%",
-    "uptimeWeek": "88.18%",
-    "uptimeMonth": "88.18%",
-    "uptimeYear": "88.18%",
+    "uptime": "88.46%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "88.46%",
+    "uptimeMonth": "88.46%",
+    "uptimeYear": "88.46%",
     "time": 3173,
     "timeDay": 3173,
     "timeWeek": 3173,
@@ -42,19 +42,19 @@
     "url": "https://hubs.yukbid.com/version.txt",
     "icon": "https://favicons.githubusercontent.com/hubs.yukbid.com",
     "slug": "hubs",
-    "status": "up",
-    "uptime": "97.43%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "97.43%",
-    "time": 6220,
-    "timeDay": 6220,
-    "timeWeek": 6220,
-    "timeMonth": 6220,
-    "timeYear": 6220,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 5764,
+    "timeDay": 5764,
+    "timeWeek": 5764,
+    "timeMonth": 5764,
+    "timeYear": 5764,
     "dailyMinutesDown": {
-      "2022-04-26": 10
+      "2022-04-26": 0
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
     "status": "up",
-    "uptime": "82.61%",
-    "uptimeDay": "82.61%",
-    "uptimeWeek": "82.61%",
-    "uptimeMonth": "82.61%",
-    "uptimeYear": "82.61%",
+    "uptime": "85.57%",
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "85.57%",
+    "uptimeMonth": "85.57%",
+    "uptimeYear": "85.57%",
     "time": 7019,
     "timeDay": 7019,
     "timeWeek": 7019,
     "timeMonth": 7019,
     "timeYear": 7019,
     "dailyMinutesDown": {
-      "2022-04-26": 69
+      "2022-04-26": 59
     }
   }
 ]

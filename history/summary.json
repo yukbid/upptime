@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/api.yukbid.com",
     "slug": "api-server",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "72.77%",
+    "uptimeDay": "72.77%",
+    "uptimeWeek": "72.77%",
+    "uptimeMonth": "72.77%",
+    "uptimeYear": "72.77%",
     "time": 2897,
     "timeDay": 2897,
     "timeWeek": 2897,
     "timeMonth": 2897,
     "timeYear": 2897,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 31
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://cms.yukb.id/version.txt",
     "icon": "https://favicons.githubusercontent.com/cms.yukb.id",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 7228,
-    "timeDay": 7228,
-    "timeWeek": 7228,
-    "timeMonth": 7228,
-    "timeYear": 7228,
+    "status": "up",
+    "uptime": "71.40%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "71.40%",
+    "uptimeMonth": "71.40%",
+    "uptimeYear": "71.40%",
+    "time": 8889,
+    "timeDay": 8889,
+    "timeWeek": 8889,
+    "timeMonth": 8889,
+    "timeYear": 8889,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 31
     }
   }
 ]

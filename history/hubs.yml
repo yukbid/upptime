@@ -1,7 +1,7 @@
 url: https://hubs.yukbid.com/version.txt
-status: down
-code: 404
-responseTime: 1970
-lastUpdated: 2022-04-27T00:45:28.222Z
+status: up
+code: 200
+responseTime: 12254
+lastUpdated: 2022-04-27T01:00:35.790Z
 startTime: Tue Apr 26 2022 08:42:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
-url: https://hubs.yukbid.com/version.txt
+url: $HUBS_SITE
 status: up
 code: 200
-responseTime: 1270
-lastUpdated: 2022-04-27T23:07:27.917Z
+responseTime: 1176
+lastUpdated: 2022-04-28T10:53:50.142Z
 startTime: Tue Apr 26 2022 08:42:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

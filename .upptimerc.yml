@@ -23,7 +23,8 @@ status-website:
   logoUrl: https://yukbid.com/assets/img/brand_primary.svg
   favicon: https://yukbid.com/assets/favicon.ico
   name: "Yukbid's Status Page"
-  themeUrl: https://appify.org/lyrid.css
+  # themeUrl: https://appify.org/lyrid.css
+  theme: night
   introTitle: "Yukbid's Status Page"
   navbar:
     - title: Status Page

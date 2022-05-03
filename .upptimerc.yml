@@ -12,6 +12,8 @@ sites:
     url: $HUBS_SITE
   - name: CMS
     url: $CMS_SITE
+  - name: Microservices
+    url: $MSG_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

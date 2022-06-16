@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1507,
     "timeDay": 3110,
     "timeWeek": 2641,
     "timeMonth": 1679,
     "timeYear": 1507,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Server",
@@ -45,18 +43,19 @@
     "url": "$HUBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hubs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 4608,
-    "timeDay": 1151,
-    "timeWeek": 4771,
-    "timeMonth": 3146,
-    "timeYear": 4608,
+    "time": 4581,
+    "timeDay": 1522,
+    "timeWeek": 4411,
+    "timeMonth": 3110,
+    "timeYear": 4581,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-04-27": 31
     }
   },
@@ -65,18 +64,20 @@
     "url": "$CMS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4852,
-    "timeDay": 21698,
-    "timeWeek": 10491,
-    "timeMonth": 6523,
-    "timeYear": 4852,
-    "dailyMinutesDown": {}
+    "time": 4870,
+    "timeDay": 13713,
+    "timeWeek": 9961,
+    "timeMonth": 6499,
+    "timeYear": 4870,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Microservices",

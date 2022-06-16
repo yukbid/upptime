@@ -4,18 +4,20 @@
     "url": "https://yukbid.com",
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1507,
-    "timeDay": 3110,
-    "timeWeek": 2641,
-    "timeMonth": 1679,
-    "timeYear": 1507,
-    "dailyMinutesDown": {}
+    "time": 1518,
+    "timeDay": 2828,
+    "timeWeek": 2600,
+    "timeMonth": 1694,
+    "timeYear": 1518,
+    "dailyMinutesDown": {
+      "2022-06-16": 1
+    }
   },
   {
     "name": "API Server",
@@ -29,7 +31,7 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.86%",
     "time": 3621,
-    "timeDay": 4852,
+    "timeDay": 11324,
     "timeWeek": 4694,
     "timeMonth": 3520,
     "timeYear": 3621,
@@ -44,18 +46,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hubs",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 4548,
     "timeDay": 1391,
     "timeWeek": 4047,
     "timeMonth": 3053,
     "timeYear": 4548,
     "dailyMinutesDown": {
-      "2022-06-16": 7,
       "2022-04-27": 31
     }
   },
@@ -65,19 +66,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4812,
     "timeDay": 9818,
     "timeWeek": 9168,
     "timeMonth": 6368,
     "timeYear": 4812,
-    "dailyMinutesDown": {
-      "2022-06-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Microservices",

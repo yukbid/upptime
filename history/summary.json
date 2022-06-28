@@ -4,9 +4,9 @@
     "url": "https://yukbid.com",
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3974,
     "timeMonth": 2421,
     "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-28": 0
+    }
   },
   {
     "name": "API Server",

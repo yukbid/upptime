@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1786,
-    "timeDay": 3113,
-    "timeWeek": 3595,
-    "timeMonth": 2381,
-    "timeYear": 1786,
-    "dailyMinutesDown": {
-      "2022-06-28": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1832,
+    "timeDay": 3315,
+    "timeWeek": 4123,
+    "timeMonth": 2503,
+    "timeYear": 1832,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Server",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
-    "time": 4232,
-    "timeDay": 11967,
-    "timeWeek": 11537,
-    "timeMonth": 6229,
-    "timeYear": 4232,
+    "time": 4296,
+    "timeDay": 12214,
+    "timeWeek": 11734,
+    "timeMonth": 6505,
+    "timeYear": 4296,
     "dailyMinutesDown": {
       "2022-06-14": 53,
       "2022-04-26": 48
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 5422,
-    "timeDay": 20447,
-    "timeWeek": 15917,
-    "timeMonth": 7133,
-    "timeYear": 5422,
+    "time": 5484,
+    "timeDay": 12597,
+    "timeWeek": 14998,
+    "timeMonth": 7339,
+    "timeYear": 5484,
     "dailyMinutesDown": {
       "2022-04-27": 31
     }
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6246,
-    "timeDay": 9958,
-    "timeWeek": 11827,
-    "timeMonth": 10129,
-    "timeYear": 6246,
+    "time": 6360,
+    "timeDay": 13351,
+    "timeWeek": 12028,
+    "timeMonth": 10192,
+    "timeYear": 6360,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1893,
-    "timeDay": 3777,
-    "timeWeek": 3453,
-    "timeMonth": 2990,
-    "timeYear": 1893,
+    "time": 1905,
+    "timeDay": 2604,
+    "timeWeek": 3285,
+    "timeMonth": 2966,
+    "timeYear": 1905,
     "dailyMinutesDown": {}
   }
 ]

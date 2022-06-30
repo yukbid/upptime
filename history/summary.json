@@ -63,19 +63,19 @@
     "url": "$CMS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6275,
-    "timeDay": 4516,
-    "timeWeek": 8848,
-    "timeMonth": 9818,
-    "timeYear": 6275,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 6214,
+    "timeDay": 3948,
+    "timeWeek": 8188,
+    "timeMonth": 9614,
+    "timeYear": 6214,
     "dailyMinutesDown": {
-      "2022-06-30": 0
+      "2022-06-30": 10
     }
   },
   {

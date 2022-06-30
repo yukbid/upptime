@@ -13,7 +13,7 @@
     "time": 1816,
     "timeDay": 1125,
     "timeWeek": 3365,
-    "timeMonth": 2469,
+    "timeMonth": 2518,
     "timeYear": 1816,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "api-server",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
     "time": 4246,
     "timeDay": 1092,
     "timeWeek": 9016,
-    "timeMonth": 6375,
+    "timeMonth": 6619,
     "timeYear": 4246,
     "dailyMinutesDown": {
-      "2022-06-30": 5,
       "2022-06-14": 53,
       "2022-04-26": 48
     }
@@ -53,7 +52,7 @@
     "time": 5532,
     "timeDay": 11162,
     "timeWeek": 16429,
-    "timeMonth": 7630,
+    "timeMonth": 7384,
     "timeYear": 5532,
     "dailyMinutesDown": {
       "2022-04-27": 31
@@ -64,9 +63,9 @@
     "url": "$CMS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +74,9 @@
     "timeWeek": 8848,
     "timeMonth": 9818,
     "timeYear": 6275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Microservices",

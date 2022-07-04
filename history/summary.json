@@ -4,10 +4,10 @@
     "url": "https://yukbid.com",
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1917,
@@ -15,7 +15,9 @@
     "timeWeek": 3409,
     "timeMonth": 2903,
     "timeYear": 1917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 2
+    }
   },
   {
     "name": "API Server",
@@ -64,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
     "status": "up",
-    "uptime": "94.14%",
-    "uptimeDay": "0.01%",
+    "uptime": "94.15%",
+    "uptimeDay": "2.38%",
     "uptimeWeek": "48.02%",
     "uptimeMonth": "88.04%",
-    "uptimeYear": "94.14%",
+    "uptimeYear": "94.15%",
     "time": 6506,
     "timeDay": 8523,
     "timeWeek": 8119,

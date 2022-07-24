@@ -6,18 +6,16 @@
     "slug": "home",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1991,
     "timeDay": 2126,
     "timeWeek": 2129,
     "timeMonth": 2723,
     "timeYear": 1991,
-    "dailyMinutesDown": {
-      "2022-07-24": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Server",
@@ -65,9 +63,9 @@
     "url": "$CMS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.04%",
     "uptimeYear": "95.59%",
@@ -77,6 +75,7 @@
     "timeMonth": 7818,
     "timeYear": 6690,
     "dailyMinutesDown": {
+      "2022-07-24": 0,
       "2022-07-04": 777,
       "2022-07-03": 1440,
       "2022-07-02": 1440,

@@ -4,19 +4,19 @@
     "url": "https://yukbid.com",
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1998,
-    "timeDay": 2444,
-    "timeWeek": 2209,
-    "timeMonth": 2763,
-    "timeYear": 1998,
+    "time": 1991,
+    "timeDay": 2126,
+    "timeWeek": 2129,
+    "timeMonth": 2723,
+    "timeYear": 1991,
     "dailyMinutesDown": {
-      "2022-07-24": 1
+      "2022-07-24": 3
     }
   },
   {

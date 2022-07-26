@@ -4,19 +4,19 @@
     "url": "https://yukbid.com",
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2312,
-    "timeDay": 13900,
-    "timeWeek": 4564,
-    "timeMonth": 3489,
-    "timeYear": 2312,
+    "time": 2480,
+    "timeDay": 16188,
+    "timeWeek": 5720,
+    "timeMonth": 3955,
+    "timeYear": 2480,
     "dailyMinutesDown": {
-      "2022-07-26": 3
+      "2022-07-26": 4
     }
   },
   {
@@ -70,7 +70,7 @@
     "status": "down",
     "uptime": "93.52%",
     "uptimeDay": "18.91%",
-    "uptimeWeek": "73.78%",
+    "uptimeWeek": "73.75%",
     "uptimeMonth": "82.00%",
     "uptimeYear": "93.52%",
     "time": 6608,
@@ -79,7 +79,7 @@
     "timeMonth": 7110,
     "timeYear": 6608,
     "dailyMinutesDown": {
-      "2022-07-26": 972,
+      "2022-07-26": 974,
       "2022-07-25": 1440,
       "2022-07-24": 231,
       "2022-07-04": 777,

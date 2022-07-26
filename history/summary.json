@@ -24,9 +24,9 @@
     "slug": "api-server",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 4532,
     "timeDay": 5192,
@@ -34,7 +34,7 @@
     "timeMonth": 5379,
     "timeYear": 4532,
     "dailyMinutesDown": {
-      "2022-07-26": 60,
+      "2022-07-26": 56,
       "2022-06-14": 53,
       "2022-04-26": 48
     }
@@ -65,9 +65,9 @@
     "url": "$CMS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "93.52%",
-    "uptimeDay": "21.86%",
+    "uptimeDay": "22.87%",
     "uptimeWeek": "73.78%",
     "uptimeMonth": "82.00%",
     "uptimeYear": "93.52%",

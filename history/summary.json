@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/yukbid.com",
     "slug": "home",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2470,
     "timeDay": 13192,
     "timeWeek": 5454,
     "timeMonth": 3891,
     "timeYear": 2470,
-    "dailyMinutesDown": {
-      "2022-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Server",
@@ -46,10 +44,10 @@
     "url": "$HUBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hubs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.88%",
     "time": 6127,
@@ -58,7 +56,7 @@
     "timeMonth": 8344,
     "timeYear": 6127,
     "dailyMinutesDown": {
-      "2022-07-26": 127,
+      "2022-07-26": 128,
       "2022-04-27": 31
     }
   },
@@ -69,7 +67,7 @@
     "slug": "admin",
     "status": "up",
     "uptime": "93.52%",
-    "uptimeDay": "24.18%",
+    "uptimeDay": "26.75%",
     "uptimeWeek": "73.78%",
     "uptimeMonth": "82.00%",
     "uptimeYear": "93.52%",

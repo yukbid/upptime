@@ -46,9 +46,9 @@
     "slug": "hubs",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.88%",
     "time": 6172,
     "timeDay": 6523,
@@ -56,7 +56,6 @@
     "timeMonth": 8070,
     "timeYear": 6172,
     "dailyMinutesDown": {
-      "2022-07-27": 4,
       "2022-07-26": 127,
       "2022-04-27": 31
     }
@@ -68,7 +67,7 @@
     "slug": "admin",
     "status": "up",
     "uptime": "93.53%",
-    "uptimeDay": "36.42%",
+    "uptimeDay": "37.99%",
     "uptimeWeek": "73.78%",
     "uptimeMonth": "82.00%",
     "uptimeYear": "93.53%",

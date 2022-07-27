@@ -44,11 +44,11 @@
     "url": "$HUBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hubs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.88%",
     "time": 6136,
     "timeDay": 6262,
@@ -56,7 +56,7 @@
     "timeMonth": 7989,
     "timeYear": 6136,
     "dailyMinutesDown": {
-      "2022-07-27": 3,
+      "2022-07-27": 0,
       "2022-07-26": 127,
       "2022-04-27": 31
     }
@@ -68,7 +68,7 @@
     "slug": "admin",
     "status": "up",
     "uptime": "93.53%",
-    "uptimeDay": "33.89%",
+    "uptimeDay": "36.14%",
     "uptimeWeek": "73.78%",
     "uptimeMonth": "82.00%",
     "uptimeYear": "93.53%",

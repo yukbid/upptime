@@ -1,7 +1,7 @@
 url: $CMS_SITE
-status: down
-code: 404
-responseTime: 2277
-lastUpdated: 2022-07-29T20:15:12.532Z
+status: up
+code: 200
+responseTime: 15959
+lastUpdated: 2022-07-29T20:28:13.013Z
 startTime: Tue May 03 2022 09:35:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -71,11 +71,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.54%",
     "time": 5448,
     "timeDay": 22165,
     "timeWeek": 6553,
@@ -90,17 +90,19 @@
     "url": "$MSG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "microservices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2023,
-    "timeDay": 2392,
-    "timeWeek": 1896,
-    "timeMonth": 2001,
-    "timeYear": 2023,
-    "dailyMinutesDown": {}
+    "time": 2015,
+    "timeDay": 1759,
+    "timeWeek": 1800,
+    "timeMonth": 1976,
+    "timeYear": 2015,
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   }
 ]

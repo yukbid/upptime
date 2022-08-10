@@ -90,19 +90,19 @@
     "url": "$MSG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "microservices",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2015,
-    "timeDay": 1759,
-    "timeWeek": 1800,
-    "timeMonth": 1976,
-    "timeYear": 2015,
+    "time": 2029,
+    "timeDay": 2343,
+    "timeWeek": 1990,
+    "timeMonth": 2019,
+    "timeYear": 2029,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 6
     }
   }
 ]

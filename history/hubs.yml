@@ -1,7 +1,7 @@
 url: $HUBS_SITE
-status: down
-code: 502
-responseTime: 10730
-lastUpdated: 2022-09-09T20:14:42.914Z
+status: up
+code: 200
+responseTime: 10899
+lastUpdated: 2022-09-09T20:21:40.092Z
 startTime: Tue Apr 26 2022 08:42:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

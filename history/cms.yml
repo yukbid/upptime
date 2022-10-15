@@ -1,7 +1,7 @@
 url: $CMS_SITE
-status: down
-code: 502
-responseTime: 1840
-lastUpdated: 2022-10-15T11:14:26.821Z
+status: up
+code: 200
+responseTime: 11184
+lastUpdated: 2022-10-15T11:21:47.089Z
 startTime: Sat Jul 30 2022 09:16:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://yukbid.com
-status: up
-code: 200
-responseTime: 3697
-lastUpdated: 2022-12-01T23:07:29.698Z
+status: down
+code: 502
+responseTime: 4289
+lastUpdated: 2022-12-02T00:42:20.039Z
 startTime: Tue Apr 26 2022 08:36:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

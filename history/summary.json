@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "94.27%",
     "uptimeDay": "98.57%",
-    "uptimeWeek": "56.60%",
+    "uptimeWeek": "57.13%",
     "uptimeMonth": "79.71%",
     "uptimeYear": "94.27%",
     "time": 3162,
@@ -217,12 +217,12 @@
     "url": "$CMS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cms",
-    "status": "up",
-    "uptime": "83.52%",
-    "uptimeDay": "76.09%",
+    "status": "down",
+    "uptime": "83.92%",
+    "uptimeDay": "76.07%",
     "uptimeWeek": "96.58%",
     "uptimeMonth": "94.29%",
-    "uptimeYear": "83.52%",
+    "uptimeYear": "83.92%",
     "time": 5408,
     "timeDay": 6950,
     "timeWeek": 8051,
@@ -299,8 +299,8 @@
       "2022-09-03": 953,
       "2022-09-01": 236,
       "2022-09-02": 1083,
-      "2022-08-31": 1163,
-      "2022-08-30": 53
+      "2022-08-31": 213,
+      "2022-08-30": 15
     }
   },
   {
@@ -309,18 +309,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservices",
     "status": "up",
-    "uptime": "91.94%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "56.43%",
-    "uptimeMonth": "80.28%",
-    "uptimeYear": "91.94%",
+    "uptime": "91.92%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "55.92%",
+    "uptimeMonth": "80.17%",
+    "uptimeYear": "91.92%",
     "time": 3068,
     "timeDay": 3274,
     "timeWeek": 3980,
     "timeMonth": 3278,
     "timeYear": 3068,
     "dailyMinutesDown": {
-      "2023-01-15": 28,
+      "2023-01-15": 80,
       "2023-01-12": 564,
       "2023-01-11": 1314,
       "2023-01-10": 1440,
@@ -376,7 +376,7 @@
       "2022-10-21": 404,
       "2022-10-20": 232,
       "2022-10-19": 409,
-      "2022-10-18": 578
+      "2022-10-18": 582
     }
   }
 ]

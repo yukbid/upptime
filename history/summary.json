@@ -81,7 +81,7 @@
     "status": "up",
     "uptime": "93.16%",
     "uptimeDay": "96.85%",
-    "uptimeWeek": "85.03%",
+    "uptimeWeek": "85.17%",
     "uptimeMonth": "84.01%",
     "uptimeYear": "93.16%",
     "time": 2718,
@@ -272,7 +272,7 @@
     "slug": "cms",
     "status": "up",
     "uptime": "88.25%",
-    "uptimeDay": "84.91%",
+    "uptimeDay": "85.94%",
     "uptimeWeek": "68.96%",
     "uptimeMonth": "76.23%",
     "uptimeYear": "88.25%",
@@ -361,12 +361,12 @@
     "url": "$MSG_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservices",
-    "status": "up",
-    "uptime": "89.64%",
-    "uptimeDay": "60.45%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "79.33%",
-    "uptimeYear": "89.64%",
+    "status": "down",
+    "uptime": "89.69%",
+    "uptimeDay": "60.41%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "79.37%",
+    "uptimeYear": "89.69%",
     "time": 3149,
     "timeDay": 4417,
     "timeWeek": 3936,
@@ -438,7 +438,7 @@
       "2022-11-15": 287,
       "2022-11-13": 532,
       "2022-11-12": 381,
-      "2022-11-11": 549
+      "2022-11-11": 355
     }
   }
 ]

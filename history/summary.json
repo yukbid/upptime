@@ -81,7 +81,7 @@
     "status": "up",
     "uptime": "93.16%",
     "uptimeDay": "96.85%",
-    "uptimeWeek": "87.87%",
+    "uptimeWeek": "87.94%",
     "uptimeMonth": "84.01%",
     "uptimeYear": "93.16%",
     "time": 2715,
@@ -361,19 +361,19 @@
     "url": "$MSG_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservices",
-    "status": "up",
-    "uptime": "89.87%",
-    "uptimeDay": "40.40%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "79.33%",
-    "uptimeYear": "89.87%",
+    "status": "down",
+    "uptime": "89.88%",
+    "uptimeDay": "41.39%",
+    "uptimeWeek": "85.86%",
+    "uptimeMonth": "79.38%",
+    "uptimeYear": "89.88%",
     "time": 3158,
     "timeDay": 4244,
     "timeWeek": 3906,
     "timeMonth": 3441,
     "timeYear": 3158,
     "dailyMinutesDown": {
-      "2023-03-05": 216,
+      "2023-03-05": 201,
       "2023-03-04": 643,
       "2023-03-03": 575,
       "2023-03-01": 5,
@@ -437,7 +437,7 @@
       "2022-11-17": 1178,
       "2022-11-16": 490,
       "2022-11-15": 287,
-      "2022-11-13": 207
+      "2022-11-13": 200
     }
   }
 ]

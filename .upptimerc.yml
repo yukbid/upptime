@@ -8,10 +8,10 @@ sites:
     url: https://yukbid.com
   - name: API Server
     url: $API_SITE
-  - name: Hubs
-    url: $HUBS_SITE
-  - name: CMS
-    url: $CMS_SITE
+#   - name: Hubs
+#     url: $HUBS_SITE
+#   - name: CMS
+#     url: $CMS_SITE
   - name: Microservices
     url: $MSG_SITE
 

@@ -1,7 +1,7 @@
 url: $MSG_SITE
-status: down
-code: 503
-responseTime: 1522
-lastUpdated: 2023-04-11T15:21:36.235Z
+status: up
+code: 200
+responseTime: 3824
+lastUpdated: 2023-04-11T15:24:27.328Z
 startTime: Tue May 03 2022 09:34:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

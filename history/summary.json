@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yukbid.com.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.83%",
@@ -191,18 +191,19 @@
     "url": "$MSG_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservices",
-    "status": "up",
-    "uptime": "93.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "91.85%",
-    "time": 2912,
-    "timeDay": 1477,
-    "timeWeek": 1348,
+    "uptimeYear": "91.89%",
+    "time": 2910,
+    "timeDay": 1396,
+    "timeWeek": 1345,
     "timeMonth": 1281,
-    "timeYear": 3052,
+    "timeYear": 3050,
     "dailyMinutesDown": {
+      "2023-08-29": 0,
       "2023-08-25": 20,
       "2023-08-05": 33,
       "2023-07-21": 46,
@@ -270,8 +271,7 @@
       "2022-12-04": 15,
       "2022-12-03": 20,
       "2022-12-02": 515,
-      "2022-12-01": 510,
-      "2022-11-30": 203
+      "2022-12-01": 510
     }
   }
 ]

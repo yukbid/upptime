@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.96%",
-    "time": 3671,
-    "timeDay": 2504,
-    "timeWeek": 2666,
-    "timeMonth": 2722,
-    "timeYear": 3846,
+    "time": 3674,
+    "timeDay": 2950,
+    "timeWeek": 2706,
+    "timeMonth": 2729,
+    "timeYear": 3847,
     "dailyMinutesDown": {
       "2023-10-07": 58,
       "2023-10-05": 22,
@@ -73,8 +73,7 @@
       "2022-12-04": 14,
       "2022-12-03": 16,
       "2022-12-02": 512,
-      "2022-11-16": 503,
-      "2022-11-11": 808
+      "2022-11-16": 503
     }
   },
   {
@@ -88,11 +87,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.16%",
-    "time": 1593,
-    "timeDay": 1125,
-    "timeWeek": 1094,
-    "timeMonth": 1158,
-    "timeYear": 1254,
+    "time": 1315,
+    "timeDay": 1212,
+    "timeWeek": 1123,
+    "timeMonth": 1160,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2023-11-10": 16,
       "2023-10-07": 58,
@@ -149,8 +148,7 @@
       "2022-11-21": 7,
       "2022-11-16": 503,
       "2022-11-15": 185,
-      "2022-11-14": 106,
-      "2022-11-11": 808
+      "2022-11-14": 106
     }
   },
   {
@@ -159,15 +157,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservices",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "92.05%",
     "time": 2911,
-    "timeDay": 1093,
-    "timeWeek": 1132,
-    "timeMonth": 1243,
+    "timeDay": 1252,
+    "timeWeek": 1186,
+    "timeMonth": 1247,
     "timeYear": 2855,
     "dailyMinutesDown": {
       "2023-11-10": 16,
